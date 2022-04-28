@@ -68,4 +68,4 @@ An rmse of 0.84 for the in sample data indicates a good fit, however this is typ
 
     **Long answer:**
 
-    - Based on the p values and comparison of the forecasts to real data, the ARMA and ARIMA models do not describe the price/return movement well enough to implement them in a trading strategy or to advise purchases of any considerable scale. The GARCH model, however, may be somewhat useful when predicting volatility in the near future. The regression tool may be somwhat ironically the most accurate predictor but it still has downfalls that I would not put my money into.
+    - Based on the p values and comparison of the forecasts to real data, the ARMA and ARIMA models do not describe the price/return movement well enough to implement them in a trading strategy or to advise purchases of any considerable scale. The GARCH model, however, could be useful when predicting volatility in the near future. The regression tool may be somwhat ironically the most accurate predictor but it still has downfalls that I would not put my money into.
