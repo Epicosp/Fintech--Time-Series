@@ -26,7 +26,7 @@ Based on the p values, the model has successfully described the first component 
 
 An order (5,1,1) Autoregressive Integrated Moving Average (ARIMA) model was used to forecast the price movement of the CAD/JPY using the same price data used for the ARMA model. 
 
-The p values for the ARIMA the model were similar to that of the ARMA model, with the moving average (ma, p=0.064) being relativly robust, however the other components and the constant (c, p=0.458) were not statisticaly significant, as such, the model has similar downfalls to that of the ARMA model (see fig 4).
+The p values for the ARIMA model were similar to that of the ARMA model, with the moving average (ma, p=0.064) being relativly robust, however the other components and the constant (c, p=0.458) were not statisticaly significant, as such, the model has similar downfalls to that of the ARMA model (see fig 4).
 
 ![fig5](Resources/ARIMA_predictions.png)
 
